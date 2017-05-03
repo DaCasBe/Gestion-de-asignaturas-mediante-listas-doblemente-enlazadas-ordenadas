@@ -1,0 +1,14 @@
+PD
+10
+Juan Alberto
+Campos Luque
+6.5
+7.2
+Ana Isabel
+Parra Ramos
+8.9
+7.1
+Luis
+Siles Cruz
+8.4
+5.4
